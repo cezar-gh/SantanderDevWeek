@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="textview">TextView</string>
+    <string name="ag_0202">Ag: 0202</string>
+    <string name="txt_saldo_dispon_vel">Saldo disponível</string>
+    <string name="txt_saldo_limite">Saldo + Limite</string>
+    <string name="txt_r_2_324_64">R$ 2.324,64</string>
+    <string name="txt_ver_extrato">Ver extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_recarregar">Recarregar</string>
+    <string name="txt_cart_o_final">Cartão final</string>
+    <string name="txt_0033">0033</string>
+    <string name="txt_menu_3">Menu 3</string>
+    <string name="txt_r_1_324_64">R$ 1.324,64</string>
+    <string name="txt_quadro_sob_o_card">Quadro sob o card</string>
+    <string name="txt_ol_cezar">Olá, Cezar!!!</string>
+    <string name="txt_cc_0122112_5">CC 0122112-5</string>
+    <string name="txt_imagem_update">Imagem update</string>
+    <string name="txt_imagem_expand_less">Imagem Expand-less</string>
+    <string name="txt_imagem_cart_o_de_cr_dito">Imagem Cartão de Crédito</string>
+    <string name="txt_imagem_transferir">Imagem Transferir</string>
+    <string name="txt_imagem_recarregar">Imagem Recarregar</string>
+    <string name="txt_imagem_barra_inferior">Imagem Barra Inferior</string>
+    <string name="txt_imagem_expand_more">Imagem Expand-more</string>
+    <string name="string_txt_imagem_expand_more">Imagem Expand more</string>
+</resources>
