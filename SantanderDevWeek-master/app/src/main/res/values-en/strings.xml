@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="txt_saldo_dispon_vel">Balance available</string>
+    <string name="txt_saldo_limite">Balance + Limit</string>
+    <string name="txt_ver_extrato">"See "</string>
+    <string name="txt_pagar">Pay</string>
+    <string name="txt_transferir">Transfer</string>
+    <string name="txt_recarregar">Recharge</string>
+    <string name="txt_cart_o_final">Final card</string>
+    <string name="txt_quadro_sob_o_card">Frame under the card</string>
+    <string name="txt_ol_cezar">Hallo, Cezar</string>
+    <string name="txt_imagem_update">Update image</string>
+    <string name="txt_imagem_expand_less">Expand-less image</string>
+    <string name="txt_imagem_cart_o_de_cr_dito">Credit Card image</string>
+    <string name="txt_imagem_transferir">Transfer Image</string>
+    <string name="txt_imagem_recarregar">Recharge Image</string>
+    <string name="txt_imagem_barra_inferior">Bottom bar Image</string>
+    <string name="txt_imagem_expand_more">Expand-more Image</string>
+    <string name="string_txt_imagem_expand_more">Ex-pand-more Image</string>
+</resources>
